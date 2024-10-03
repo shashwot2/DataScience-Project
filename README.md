@@ -90,3 +90,5 @@ This object contains information regarding access to the book's content:
 This object contains additional search-related information:
 
     textSnippet: A snippet of text from the book, helpful for previews or search indexing.
+
+For more details regarding the data please visit: https://developers.google.com/books/docs/overview
