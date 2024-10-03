@@ -1,3 +1,14 @@
+# Python Google API Documentation
+It's a juts basic script to run the python code which gets the data from the Google API 
+
+## Installation
+1. Install dependencies
+2. Register for Google API in Google console 
+3. Make an .env with the variable GOOGLE_BOOKS_API_KEY
+2. run `python main.py` 
+
+
+
 # Google Books API Data Documentation
 ## Overview
 
