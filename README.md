@@ -1,5 +1,5 @@
 # Python Google API Documentation
-It's a juts basic script to run the python code which gets the data from the Google API 
+It's a just basic script to run the python code which gets the data from the Google API 
 
 ## Installation
 1. Install dependencies
@@ -7,6 +7,7 @@ It's a juts basic script to run the python code which gets the data from the Goo
 3. Make an .env with the variable GOOGLE_BOOKS_API_KEY
 2. run `python main.py` 
 
+## Microcenter data is retreieved from https://github.com/williamschen23/microcenter-scraper
 
 
 # Google Books API Data Documentation

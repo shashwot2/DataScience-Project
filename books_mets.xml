@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dnx="http://www.exlibrisgroup.com/dps/dnx" ID="BooksDataPackage" OBJID="BooksData" TYPE="Archival Information Package (AIP)">
+  <metsHdr CREATEDATE="2024-10-27T12:00:00" RECORDSTATUS="Complete">
+    <agent ROLE="CREATOR" TYPE="INDIVIDUAL">
+      <name>Shashwot K C</name>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="DMD1">
+    <mdWrap MDTYPE="DC">
+      <xmlData>
+        <dc:record>
+          <dc:title>Project Hail Mary</dc:title>
+          <dc:creator>Andy Weir</dc:creator>
+          <dc:date>2021-05-04</dc:date>
+          <dc:identifier>-Ff2DwAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>The Science Fiction Universe-- and Beyond</dc:title>
+          <dc:creator>Michael Mallory</dc:creator>
+          <dc:date>2012</dc:date>
+          <dc:identifier>t16puAAACAAJ</dc:identifier>
+          <dc:subject>Science fiction films</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Widowland</dc:title>
+          <dc:creator>C. J. Carey</dc:creator>
+          <dc:date>2022-08-09</dc:date>
+          <dc:identifier>gGpMEAAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>A Planet for Rent</dc:title>
+          <dc:creator>Yoss</dc:creator>
+          <dc:date>2014-09-30</dc:date>
+          <dc:identifier>4liVAwAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Not Done Yet</dc:title>
+          <dc:creator>Anthony W. Eichenlaub</dc:creator>
+          <dc:date>2023-11-14</dc:date>
+          <dc:identifier>lVTcEAAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>The Sci-Fi Movie Guide</dc:title>
+          <dc:creator>Chris Barsanti</dc:creator>
+          <dc:date>2014-10-14</dc:date>
+          <dc:identifier>R1kLngEACAAJ</dc:identifier>
+          <dc:subject>Performing Arts</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Girl in Landscape</dc:title>
+          <dc:creator>Jonathan Lethem</dc:creator>
+          <dc:date>2011-04-13</dc:date>
+          <dc:identifier>UsnbTKpCUt8C</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Be a Writing Machine</dc:title>
+          <dc:creator>M.L. Ronn</dc:creator>
+          <dc:date>2018-02-07</dc:date>
+          <dc:identifier>MZVQDwAAQBAJ</dc:identifier>
+          <dc:subject>Reference</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Lockdown Sci-Fi</dc:title>
+          <dc:creator>D. Kerhsaw, Ben Thomas, S. N. Graves</dc:creator>
+          <dc:date>2020-04-16</dc:date>
+          <dc:identifier>YBx8zQEACAAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Battlefield Earth</dc:title>
+          <dc:creator>L. Ron Hubbard</dc:creator>
+          <dc:date>2016-06-06</dc:date>
+          <dc:identifier>zh57CwAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>On Writing and Worldbuilding</dc:title>
+          <dc:creator>Timothy Hickson</dc:creator>
+          <dc:date>2023-11-23</dc:date>
+          <dc:identifier>i59F0AEACAAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>The Year's Best Science Fiction: Twenty-Fifth Annual Collection</dc:title>
+          <dc:creator>Gardner Dozois</dc:creator>
+          <dc:date>2008-07-08</dc:date>
+          <dc:identifier>KEwpbLITuDcC</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Sirius</dc:title>
+          <dc:creator>Olaf Stapledon</dc:creator>
+          <dc:date>2023-12-15</dc:date>
+          <dc:identifier>TRjmEAAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Seveneves</dc:title>
+          <dc:creator>Neal Stephenson</dc:creator>
+          <dc:date>2015-05-19</dc:date>
+          <dc:identifier>0VWdBAAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>THE LINK: RETURN TO HUMANITY</dc:title>
+          <dc:creator>William Zanotti</dc:creator>
+          <dc:date>2023-10-19</dc:date>
+          <dc:identifier>JOvaEAAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Science Fiction</dc:title>
+          <dc:creator>John Clute</dc:creator>
+          <dc:date>1995</dc:date>
+          <dc:identifier>fGjvAAAACAAJ</dc:identifier>
+          <dc:subject>Science fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>The New Space Opera</dc:title>
+          <dc:creator>Gardner Dozois, Jonathan Strahan</dc:creator>
+          <dc:date>2016-05-17</dc:date>
+          <dc:identifier>8jKKCwAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>The Sykaos Papers</dc:title>
+          <dc:creator></dc:creator>
+          <dc:date>1988</dc:date>
+          <dc:identifier>ffaKjy58S7oC</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Alien's Host</dc:title>
+          <dc:creator>Alexandra Norton</dc:creator>
+          <dc:date>2023-06-15</dc:date>
+          <dc:identifier>BmTDEAAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>The Family Trade</dc:title>
+          <dc:creator>Charles Stross</dc:creator>
+          <dc:date>2010-04-01</dc:date>
+          <dc:identifier>Fotjda-BZKkC</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>How to Write Science Fiction &amp; Fantasy</dc:title>
+          <dc:creator>Orson Scott Card</dc:creator>
+          <dc:date>2001-09-15</dc:date>
+          <dc:identifier>9cg1EAAAQBAJ</dc:identifier>
+          <dc:subject>Language Arts &amp; Disciplines</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Space and Time: 8 Sci-Fi Masterpieces</dc:title>
+          <dc:creator>Andrew North, H. Piper, Rick Raphael, John McGuire</dc:creator>
+          <dc:date>2012-03-08</dc:date>
+          <dc:identifier>5uTZjgEACAAJ</dc:identifier>
+          <dc:subject></dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Firebird</dc:title>
+          <dc:creator>Charles L. Harness</dc:creator>
+          <dc:date>2015-07-30</dc:date>
+          <dc:identifier>LXB4CgAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>A New God</dc:title>
+          <dc:creator>Menilik Henry Dyer</dc:creator>
+          <dc:date>2024-03-05</dc:date>
+          <dc:identifier>gxOf0AEACAAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Poli Sci Fi</dc:title>
+          <dc:creator>Michael A. Allen, Justin S. Vaughn</dc:creator>
+          <dc:date>2016-03-10</dc:date>
+          <dc:identifier>3Ai4CwAAQBAJ</dc:identifier>
+          <dc:subject>Political Science</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>The Municipalists</dc:title>
+          <dc:creator>Seth Fried</dc:creator>
+          <dc:date>2019-03-19</dc:date>
+          <dc:identifier>7ddhDwAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>The Science Fiction of Mark Twain</dc:title>
+          <dc:creator>Mark Twain</dc:creator>
+          <dc:date>1984</dc:date>
+          <dc:identifier>KfvoAAAAIAAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Tales From Another Dimension</dc:title>
+          <dc:creator>Robbie Sheerin</dc:creator>
+          <dc:date>2021-12-03</dc:date>
+          <dc:identifier>XlJQEAAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>The Road to Science Fiction: From Wells to Heinlein</dc:title>
+          <dc:creator>James E. Gunn</dc:creator>
+          <dc:date>1979</dc:date>
+          <dc:identifier>WyEUpnD07WgC</dc:identifier>
+          <dc:subject>Science fiction, American</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Anthology of Sci-Fi V31, the Pulp Writers - Lester Del Rey</dc:title>
+          <dc:creator>Lester Del Rey</dc:creator>
+          <dc:date>2013-07-01</dc:date>
+          <dc:identifier>o6FcngEACAAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Where Worlds Collide</dc:title>
+          <dc:creator>Rob Shelsky</dc:creator>
+          <dc:date>2010-11-11</dc:date>
+          <dc:identifier>99VlewAACAAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Edison's Conquest of Mars (Sci-Fi Classic)</dc:title>
+          <dc:creator>Garrett P. Serviss</dc:creator>
+          <dc:date>2023-12-02</dc:date>
+          <dc:identifier>vUPmEAAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Slaughterhouse-Five</dc:title>
+          <dc:creator>Kurt Vonnegut</dc:creator>
+          <dc:date>1999-01-12</dc:date>
+          <dc:identifier>pWyLDQAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Uglies</dc:title>
+          <dc:creator>Scott Westerfeld</dc:creator>
+          <dc:date>2011-05-03</dc:date>
+          <dc:identifier>6hrbAgAAQBAJ</dc:identifier>
+          <dc:subject>Juvenile Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Sci-Fi with a Twist</dc:title>
+          <dc:creator>Jack Legend</dc:creator>
+          <dc:date>2017-02-14</dc:date>
+          <dc:identifier>YH7TAQAACAAJ</dc:identifier>
+          <dc:subject></dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Anthology of Sci-Fi V21, the Pulp Writers</dc:title>
+          <dc:creator>Clifford D. Simak, Edwin K. Sloat, Damon Knight</dc:creator>
+          <dc:date>2013-07-01</dc:date>
+          <dc:identifier>BCwKngEACAAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Dawn Exodus</dc:title>
+          <dc:creator>Kevin Partner</dc:creator>
+          <dc:date>N/A</dc:date>
+          <dc:identifier>CgQVEAAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Vizions of the Future</dc:title>
+          <dc:creator>Eleven Authors</dc:creator>
+          <dc:date>2018-11-05</dc:date>
+          <dc:identifier>7e-oxwEACAAJ</dc:identifier>
+          <dc:subject></dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>The Second Science Fiction MEGAPACK®</dc:title>
+          <dc:creator>Robert Silverberg, Lawrence Watt-Evans, Nina Kiriki Hoffman, Tom Purdom, Philip K. Dick, Marion Zimmer Bradley, Ben Bova</dc:creator>
+          <dc:date>2011-09-09</dc:date>
+          <dc:identifier>AQv0AAAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Red Rising</dc:title>
+          <dc:creator>Pierce Brown</dc:creator>
+          <dc:date>2014-01-28</dc:date>
+          <dc:identifier>nPF9n0SwstMC</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Betrayed</dc:title>
+          <dc:creator>Mark Eller</dc:creator>
+          <dc:date>N/A</dc:date>
+          <dc:identifier>JVthAwAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Rescued by the Alien Space Pirate: Steamy Sci-Fi Romance</dc:title>
+          <dc:creator>Charmaine Ross</dc:creator>
+          <dc:date>N/A</dc:date>
+          <dc:identifier>IICHEAAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>All Systems Red</dc:title>
+          <dc:creator>Martha Wells</dc:creator>
+          <dc:date>2017-05-02</dc:date>
+          <dc:identifier>ZSu2DQAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Anarchy's Edge</dc:title>
+          <dc:creator>Dave Walsh</dc:creator>
+          <dc:date>2021-03-30</dc:date>
+          <dc:identifier>rxgeEAAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>The Graviton Chronicles: A Sci-Fi Novella</dc:title>
+          <dc:creator>Rick Anthony</dc:creator>
+          <dc:date>N/A</dc:date>
+          <dc:identifier>YcrDEAAAQBAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Must-See Sci-fi</dc:title>
+          <dc:creator>Sloan De Forest, Turner Classic Movies</dc:creator>
+          <dc:date>2018-05-01</dc:date>
+          <dc:identifier>xPYzDwAAQBAJ</dc:identifier>
+          <dc:subject>Performing Arts</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Never Let Me Go</dc:title>
+          <dc:creator>Kazuo Ishiguro</dc:creator>
+          <dc:date>2009-03-19</dc:date>
+          <dc:identifier>OBwDg13MGkMC</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>It Came from Beyond the Sun</dc:title>
+          <dc:creator>Mike Silvestri, Carla Chadick</dc:creator>
+          <dc:date>2009-09</dc:date>
+          <dc:identifier>698QQgAACAAJ</dc:identifier>
+          <dc:subject>Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Sci-Fi Junior High</dc:title>
+          <dc:creator>Scott Seegert</dc:creator>
+          <dc:date>2017-03-06</dc:date>
+          <dc:identifier>dLA3DgAAQBAJ</dc:identifier>
+          <dc:subject>Juvenile Fiction</dc:subject>
+        </dc:record>
+        <dc:record>
+          <dc:title>Sci-Fi Chronicles</dc:title>
+          <dc:creator>Guy Haley</dc:creator>
+          <dc:date>2014-08-01</dc:date>
+          <dc:identifier>J96PoAEACAAJ</dc:identifier>
+          <dc:subject>Science fiction films</dc:subject>
+        </dc:record>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+</mets>
